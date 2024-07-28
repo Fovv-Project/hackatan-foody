@@ -1,0 +1,104 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "dummy restaurant name",
+      "labels": ["label 1", "label 2"],
+      "menu": [
+        {
+          "id": 1,
+          "name": "dummy food",
+          "description": "dummy food description",
+          "price": 20000,
+          "thumbnail": "https://picsum.photos/200"
+        },
+        {
+          "id": 2,
+          "name": "dummy drink",
+          "description": "dummy drink description",
+          "price": 10000,
+          "thumbnail": "https://picsum.photos/200"
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 5.0,
+          "likes": 2,
+          "timeInterval": "17 bulan lalu",
+          "totalReview": 22
+        },
+        {
+          "id": 2,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 4.0,
+          "likes": 6,
+          "timeInterval": "12 bulan lalu",
+          "totalReview": 28
+        },
+        {
+          "id": 3,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 4.0,
+          "likes": 6,
+          "timeInterval": "12 bulan lalu",
+          "totalReview": 28
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "dummy restaurant name",
+      "labels": ["label 1", "label 2"],
+      "menu": [
+        {
+          "id": 1,
+          "name": "dummy food",
+          "description": "dummy food description",
+          "price": 20000,
+          "thumbnail": "https://picsum.photos/200"
+        },
+        {
+          "id": 2,
+          "name": "dummy drink",
+          "description": "dummy drink description",
+          "price": 10000,
+          "thumbnail": "https://picsum.photos/200"
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 5.0,
+          "likes": 2,
+          "timeInterval": "17 bulan lalu",
+          "totalReview": 22
+        },
+        {
+          "id": 2,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 4.0,
+          "likes": 6,
+          "timeInterval": "12 bulan lalu",
+          "totalReview": 28
+        },
+        {
+          "id": 3,
+          "sender": "dummy sender",
+          "text": "dummy review",
+          "rating": 4.0,
+          "likes": 6,
+          "timeInterval": "12 bulan lalu",
+          "totalReview": 28
+        }
+      ]
+    }
+  ]
+}
